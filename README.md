@@ -13,7 +13,7 @@
 
 
 [![Jingkhailim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jingkhailim)](https://github.com/anuraghazra/github-readme-stats)
-![Jingkhailim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jingkhailim&show_icons=true)
+![Jingkhailim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jingkhailim&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingkhailim&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 Lang I have
