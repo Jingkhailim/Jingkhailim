@@ -3,11 +3,9 @@
 
 - My Current Progress:
 - 1. Odin Project(JavaScript)
-- 2. React
-- 3. Arduino(re-learn)
-- 4. Cs50
+- 2. Arduino(re-learn)
+- 3. Cs50
 - 
-- 🌱 I’m currently learning Javascript!
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email me at jingkhai.lim@outlook.com and let's talk and colab! come come!
 
@@ -20,6 +18,7 @@ Lang I have
 - SQL
 - HTML
 - CSS
+- JS
 - C
 - EV3
 - Wedo
