@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jingkhailim
-- 👀 I’m interested in learning Javascript and other useful languages :D
+<!-- - 👀 I’m interested in learning Javascript and other useful languages :D -->
 
 - 
 - 💞️ I’m looking to collaborate on ...
